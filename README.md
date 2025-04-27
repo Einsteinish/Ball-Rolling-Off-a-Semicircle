@@ -27,27 +27,22 @@ Let’s solve the problem step-by-step with clear definitions and correct force 
 ![Forces-Semi-Circle](images/Forces-Semi-Circle.png)
 
 2. **Normal Force ($N$)**  
-   - Acts **perpendicular to the surface** (away from the center).
+   - The normal force is the reaction force exerted by the semicircle on the ball, **perpendicular to the surface** (away from the center).
    - **Decreases as the ball rolls down** because part of gravity provides the centripetal force.
    - **At liftoff, $N = 0$.**
-  
-
-
-The normal force is the reaction force exerted by the semicircle on the ball, perpendicular to the surface.
-
-#### General Formula:
+   - **General Formula**:
 
 $$
-    N = mg \sin \theta - \frac{mv^2}{R}
+         N = mg \sin \theta - \frac{mv^2}{R}
 $$
 
-Derived from Newton’s 2nd Law in the radial direction:
+         Derived from Newton’s 2nd Law in the radial direction:
 
 $$
-    \sum F_{\text{radial}} = mg \sin \theta - N = \frac{mv^2}{R}.
+         \sum F_{\text{radial}} = mg \sin \theta - N = \frac{mv^2}{R}.
 $$
 
-#### Behavior:
+   - **Behavior**:
 
 - **At the top (\(\theta = 90°\)):**  
   \(N = mg\) (ball is at rest, no centripetal force needed).
