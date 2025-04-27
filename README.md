@@ -30,6 +30,33 @@ Let’s solve the problem step-by-step with clear definitions and correct force 
    - Acts **perpendicular to the surface** (away from the center).
    - **Decreases as the ball rolls down** because part of gravity provides the centripetal force.
    - **At liftoff, $N = 0$.**
+  
+
+
+The normal force is the reaction force exerted by the semicircle on the ball, perpendicular to the surface.
+
+#### General Formula:
+
+$$
+    N = mg \sin \theta - \frac{mv^2}{R}
+$$
+
+Derived from Newton’s 2nd Law in the radial direction:
+
+$$
+    \sum F_{\text{radial}} = mg \sin \theta - N = \frac{mv^2}{R}.
+$$
+
+#### Behavior:
+
+- **At the top (\(\theta = 90°\)):**  
+  \(N = mg\) (ball is at rest, no centripetal force needed).
+
+- **As \(\theta\) decreases:**  
+  \(N\) decreases because \(v\) increases, requiring more centripetal force.
+
+- **At liftoff (\(\theta = \arcsin(2/3)\)):**  
+  \(N = 0\).
 
 ### **Liftoff Condition**
 The ball loses contact when the **normal force $N$ drops to zero**. At this point:
