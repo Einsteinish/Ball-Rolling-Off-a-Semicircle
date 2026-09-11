@@ -164,5 +164,4 @@ $$
 
 ---
 [Watch the Youtube video here](https://youtu.be/C03fW0zWp6w&t=5s)
-
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/C03fW0zWp6w&t=5s/0.jpg)](https://www.youtube.com/watch?v=C03fW0zWp6w&t=5s)
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/C03fW0zWp6w/0.jpg)](https://www.youtube.com/watch?v=C03fW0zWp6w&t=5s)
