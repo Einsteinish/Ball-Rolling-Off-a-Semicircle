@@ -1,6 +1,12 @@
 
 # **Ball Rolling Off a Semicircle**
 
+[Watch the Youtube video here](https://youtu.be/C03fW0zWp6w&t=5s)  
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/C03fW0zWp6w/0.jpg)](https://www.youtube.com/watch?v=C03fW0zWp6w&t=5s)
+
+---
+
 We have a semicircle placed on the ground, with its flat side down. Imagine looking at it from the side; it's like a half-circle standing upright. At the very top (90 degrees from the horizontal), we place a ball. As the ball rolls down the semicircle, at some point, it will no longer be in contact with the surface—it will "take off" or "fly off" the semicircle. We need to determine the angle at which this happens.
 
 ![Semi-Circle](images/Semi-Circle.png)
