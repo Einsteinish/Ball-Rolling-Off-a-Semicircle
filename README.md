@@ -161,3 +161,8 @@ $$
 - **Liftoff condition**: $N = 0$, so $mg \sin \theta = mv^2 / R$.
 - **Energy conservation**: Links $v$ and $\theta$.
 - **Result**: $\theta = \arcsin(2/3) \approx 41.8°$.
+
+---
+[Watch the Youtube video here](https://youtu.be/C03fW0zWp6w&t=5s)
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/C03fW0zWp6w&t=5s/0.jpg)](https://www.youtube.com/watch?v=C03fW0zWp6w&t=5s)
